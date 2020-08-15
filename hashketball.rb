@@ -63,6 +63,7 @@ def game_hash()
       colors: ["Turquoise", "Purple"],
       players: [
         "Jeff Adrien" => {
+          player_name: "Jeff Adrien"
           number: 4,
           shoe: 18,
           points: 10,
@@ -73,6 +74,7 @@ def game_hash()
           slam_dunks: 2
         },
         "Bismack Biyombo" => {
+          player_name: "Bismack Biyombo"
           number: 0,
           shoe: 16,
           points: 12,
